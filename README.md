@@ -575,7 +575,7 @@ Add screenshots to the `screenshots/` folder:
 ```markdown
 ![Streamlit UI](screenshots/streamlit_ui.png)
 ![LangFlow Agentic Flow](screenshots/langflow_agentic_flow.png)
-![Screening Result](screenshots/screening_result.png)
+![Screening Result](screenshots/demo_result.png.png)
 ```
 
 ---
