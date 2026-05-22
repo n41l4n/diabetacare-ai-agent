@@ -31,7 +31,7 @@ The system helps users fill out a health screening form, estimate diabetes risk,
 - [Project Pitch](#project-pitch)
 - [Author](#author)
 
-
+---
 ## Project Goals
 
 DiabetaCare AI was built to demonstrate how an AI Agent can support a healthcare-related screening workflow while maintaining safety boundaries.
