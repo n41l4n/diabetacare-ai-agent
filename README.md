@@ -568,15 +568,20 @@ Agent explains the simulated difference
 
 ---
 
-## Screenshots
 
-Add screenshots to the `screenshots/` folder:
+## Demo Screenshots
 
-```markdown
-![Streamlit UI](screenshots/streamlit_ui.png)
-![LangFlow Agentic Flow](screenshots/langflow_agentic_flow.png)
-![Screening Result](screenshots/demo_result.png.png)
-```
+### Streamlit User Interface
+
+<img src="screenshots/streamlit_ui.png" alt="Streamlit UI" width="800"/>
+
+### LangFlow Agentic Flow
+
+<img src="screenshots/langflow_agentic_flow.png" alt="LangFlow Agentic Flow" width="800"/>
+
+### Screening Result
+
+<img src="screenshots/demo_result.png" alt="Screening Result" width="800"/>
 
 ---
 
