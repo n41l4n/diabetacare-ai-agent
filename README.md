@@ -1,4 +1,4 @@
-# DiabetaCare AI: Agentic Diabetes Risk Screening Assistant
+# 🩺 DiabetaCare AI: Agentic Diabetes Risk Screening Assistant
 
 DiabetaCare AI is an **AI Agent for Healthcare** project that combines **LangFlow Agentic Flow**, **FastAPI**, **Random Forest**, **Gemini**, and **Streamlit** to support early diabetes risk awareness.
 
