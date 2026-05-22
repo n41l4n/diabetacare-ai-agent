@@ -7,6 +7,30 @@ The system helps users fill out a health screening form, estimate diabetes risk,
 > **Medical disclaimer:** This application is for education and early risk awareness only. It is not a diagnostic tool and does not replace consultation with doctors or licensed healthcare professionals.
 
 ---
+## Table of Contents
+
+- [Project Goals](#project-goals)
+- [Key Features](#key-features)
+- [System Architecture](#system-architecture)
+- [Main Workflows](#main-workflows)
+- [Dataset](#dataset)
+- [Machine Learning Model](#machine-learning-model)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Environment Variables and Secret Management](#environment-variables-and-secret-management)
+- [Secure Configuration Recommendation](#secure-configuration-recommendation)
+- [Installation](#installation)
+- [How to Run Locally](#how-to-run-locally)
+- [LangFlow Agentic Flow](#langflow-agentic-flow)
+- [Example Input](#example-input)
+- [Example Agent Behavior](#example-agent-behavior)
+- [Demo Screenshots](#demo-screenshots)
+- [Medical Disclaimer](#medical-disclaimer)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
+- [Project Pitch](#project-pitch)
+- [Author](#author)
+
 
 ## Project Goals
 
